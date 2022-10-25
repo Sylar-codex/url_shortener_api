@@ -8,11 +8,11 @@ Got the inspiration from a frontend app I built some time ago, using a url short
 	 <tbody>
   <tr>
   <td align="Center" width="25%">
-	  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/python.png" width="36" height="36" alt="Javascript" /></a>
+	  <a href="https://www.python.org/" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/python.png" width="36" height="36" alt="Python" /></a>
 	<br>python
     </td>   
       <td align="Center" width="25%">
-	  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" width="36" height="36" alt="React" /></a>
+	  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" width="36" height="36" alt="Django" /></a>
 	<br>django
     </td>  
      </td>   
